@@ -127,7 +127,7 @@ keywords: "chemoinformatics,bioinformatics,QSAR,generative,models,molecules,prot
 navbar-col: "#C2CFB2" #"#EAEAEA"
 navbar-text-col: "#7E8987"
 navbar-border-col: "#C9C3A4"
-page-col: "#DDD1C7"
+page-col: "#FFFFFE"
 text-col: "#4B4A67"
 link-col: "#008AFF"
 hover-col: "#0085A1"

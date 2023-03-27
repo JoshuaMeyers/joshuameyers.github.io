@@ -8,4 +8,4 @@ tags: [test]
 comments: true
 ---
 
-![xkcd-compiling]([https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg](https://imgs.xkcd.com/comics/compiling.png)){: .mx-auto.d-block :}
+![xkcd-compiling]([https://imgs.xkcd.com/comics/compiling.png](https://imgs.xkcd.com/comics/compiling.png)){: .mx-auto.d-block :}

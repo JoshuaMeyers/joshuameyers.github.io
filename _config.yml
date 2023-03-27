@@ -20,7 +20,7 @@ author: Joshua Meyers
 ###############################################
 
 navbar-links:
-  About Me: "Joshua Meyers"
+  About Me: "aboutme"
   Links:
     - LinkedIn: "https://www.linkedin.com/in/joshua-meyers-a87b5541/"
     - Twitter: "https://twitter.com/DrJoshuaBox"
@@ -124,16 +124,16 @@ keywords: "chemoinformatics,bioinformatics,QSAR,generative,models,molecules,prot
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#C2CFB2" #"#EAEAEA"
-navbar-text-col: "#7E8987"
-navbar-border-col: "#C9C3A4"
-page-col: "#FFFFFE"
-text-col: "#4B4A67"
+navbar-col: "#EAEAEA"
+navbar-text-col: "#404040"
+navbar-border-col: "#DDDDDD"
+page-col: "#FFFFFF"
+text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#C2CFB2" #"#EAEAEA"
+footer-col: "#EAEAEA"
 footer-text-col: "#777777"
-footer-link-col: "#7E8987"
+footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image

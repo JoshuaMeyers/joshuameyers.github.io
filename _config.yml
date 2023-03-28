@@ -124,16 +124,16 @@ keywords: "chemoinformatics,bioinformatics,QSAR,generative,models,molecules,prot
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#A2A2A2"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
+navbar-col: "#EFEDE0"
+navbar-text-col: "#3C3D41"
+navbar-border-col: "#EFEDE0"
 page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#A2A2A2"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+text-col: "#555555"
+link-col: "#657E68"
+hover-col: "#F8E471"
+footer-col: "#92BDAA"
+footer-text-col: "#FFFFFF"
+footer-link-col: "#FFFFFF"
 footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
@@ -144,7 +144,7 @@ footer-hover-col: "#0085A1"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-#mobile-theme-col: "#0085A1"
+mobile-theme-col: "#EFEDE0"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 #site-css:
@@ -251,6 +251,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
+paginate_path: "/blog/page:num/"
 
 kramdown:
   input: GFM
